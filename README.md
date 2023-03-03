@@ -1,6 +1,8 @@
-# JIJU Airlines Reservation
+<h1 align="center">PROJECT204A</h1>
 
-![image](https://user-images.githubusercontent.com/67418265/207397089-199c33cd-b5eb-4e92-acc0-02c25907687e.png)
+<p align="center">
+<img width="1000" height="562" src="https://user-images.githubusercontent.com/67418265/222699812-e80dfa63-c3f7-4479-83a1-e895caf3844f.gif">
+<p>
 
 ## COMPUTER PROGRAMMING 1 - (ITC111L) 
 
